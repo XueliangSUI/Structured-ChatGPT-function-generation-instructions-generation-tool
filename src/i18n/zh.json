@@ -1,0 +1,22 @@
+{
+    "ui": {
+        "programming_language": "编程语言",
+        "ui_language": "界面及生成指令语言",
+        "param": "参数",
+        "add_param": "添加参数",
+        "return": "返回值",
+        "description": "函数功能描述",
+        "generate": "生成",
+        "generated_instruction": "生成的指令"
+    },
+    "i": {
+        "create": "创建一个函数，使用的编程语言为",
+        "description": "函数的功能是",
+        "param1": "该函数的第",
+        "param2": "个参数是",
+        "return": "该函数的返回值是",
+        "test": "\n并且给这个函数写10个正常的测试用例和10个极端的测试用例来验证它是否符合要求，如果不符合，重新生成新的函数直到所有测试用例符合要求。",
+        "colon": "：",
+        "semicolon":"；"
+    }
+}

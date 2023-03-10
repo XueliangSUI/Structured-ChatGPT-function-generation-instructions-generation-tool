@@ -1,0 +1,22 @@
+{
+    "ui": {
+        "programming_language": "Programming Language",
+        "ui_language": "UI and Instruction Language",
+        "param": "Param",
+        "add_param": "Add Param",
+        "return": "Return",
+        "description": "Description of the Function",
+        "generate": "Generate",
+        "generated_instruction": "Generated Instruction"
+    },
+    "i": {
+        "create": "Create a function with this programming language",
+        "description": "The ability of this function is",
+        "param1": "Param",
+        "param2": " of this function is",
+        "return": "The return of this funtion should be",
+        "test": "\nWrite 10 normal test cases and 10 extreme test cases for this function to verify if it meets the requirements. If it does not meet the requirements, generate a new function until all test cases pass.",
+        "colon": ":",
+        "semicolon": ";"
+    }
+}
